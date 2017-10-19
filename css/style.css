@@ -292,3 +292,25 @@ input[type=text]:not(.browser-default){
   font-weight: bold;
   margin-top: -22px;
 }
+.userImg{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center center;
+  box-shadow: 0px 0px 58px -17px rgba(0,0,0,0.75);
+}
+.followMe{
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.social{
+  line-height: inherit;
+  font-size: 30px;
+  color: #fff;
+  padding-right: 20px;
+}
+.ion-social-linkedin{
+  margin-left: 15px;
+}
